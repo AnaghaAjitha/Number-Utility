@@ -1,0 +1,18 @@
+div {
+    float: left;
+    background-color: rgba(168, 216, 214, 0.973);
+    width: 25%;
+    margin: 2%;
+    padding: 2%;
+    height: 300px;
+    text-align: center;
+    border-radius: 10px;
+}
+
+h1 {
+    font-family: "Lucida Console", "Courier New", monospace;
+}
+
+body {
+    font-family: "Lucida Console", "Courier New", monospace;
+}
